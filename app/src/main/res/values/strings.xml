@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyAmazingViewPager</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu">menu</string>
+    <string name="pages">pages</string>
+    <!-- Contenu des 3 pages actualité, profile et paramètres-->
+    <string name="affichage_du_fil_d_actualit_ici">Affichage du fil d\'actualité ici</string>
+    <string name="affichage_des_param_tres_de_l_aplication_ici">Affichage des paramétres de l\'aplication ici</string>
+    <string name="affichage_du_profile_de_l_utilisateur_ici">Affichage du profile de l\'utilisateur ici</string>
+</resources>
